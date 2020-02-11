@@ -1,0 +1,6 @@
+Operating Systems Description
+
+An Operating System is the frame work for the computer system.  
+The Operating System(OS) uses specific core set software that supports the computers basis functions 
+The OS manages applications and hardware using hardware drivers to interface between
+The OS runs everything on the system and details all tasks ranging from spooling to printers to protecting its system from malicious files
