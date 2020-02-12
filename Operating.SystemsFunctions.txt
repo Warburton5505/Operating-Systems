@@ -1,0 +1,6 @@
+Windows10
+
+Windows 10 adapts to the styly of the user by utilizing tiles and icons for shortcuts to applications 
+This frame work primarily runs all of the computer down to spooling print jobs and securing firewalls. 
+Windows 10 is the operating software that manages all of the computers tasks and functions
+Windows 10 utilizes Microsolft office to create specified software targeted to specific applications like Word, Powerpoint, Access and Excel. 
