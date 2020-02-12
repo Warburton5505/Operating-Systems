@@ -10,3 +10,10 @@ Google has set its roots in this operating system. This is modified from the Lin
 This operating system allows for 2 factor authentication and finger print locking.  
 Shattershield technology with the Android Max Force Z2 boasts 5 layers with a strong panel of Gorrilla Glass 3.
 The Google Play Store offers more applications and support for this operating system. 
+
+Chrome Operating system  
+
+Google Chrome Operating system is another operating system built on the Linux kernel and replaces the desktop software.  
+This Operating system only runs the Chrome browser and applications. 
+The is designed to be preinstalled on laptops otherwise known as Chromebooks. 
+We can actually install this operating system on our personal computers.  
