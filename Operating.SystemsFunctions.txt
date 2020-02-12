@@ -4,3 +4,9 @@ Windows 10 adapts to the styly of the user by utilizing tiles and icons for shor
 This frame work primarily runs all of the computer down to spooling print jobs and securing firewalls. 
 Windows 10 is the operating software that manages all of the computers tasks and functions
 Windows 10 utilizes Microsolft office to create specified software targeted to specific applications like Word, Powerpoint, Access and Excel. 
+
+Android 9 Linux-based mobile operating system designed by Google primarily  for touch screen smart phones and tablets. 
+Google has set its roots in this operating system. This is modified from the Linux kernel.   
+This operating system allows for 2 factor authentication and finger print locking.  
+Shattershield technology with the Android Max Force Z2 boasts 5 layers with a strong panel of Gorrilla Glass 3.
+The Google Play Store offers more applications and support for this operating system. 
